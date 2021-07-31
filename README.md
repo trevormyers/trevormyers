@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @trevormyers
 - 👀 I’m interested in ... web development, and technology in general
-- 🌱 I’m currently learning ... responsive web design on freecodecamp.org
+- 🌱 I’m currently learning ... responsive web design on [freecodecamp](http://freecodecamp.org)
 - 💞️ I’m looking to collaborate on ... web design and apps
 - 📫 How to reach me ... email me tamyers.usmc@gmail.com
 
